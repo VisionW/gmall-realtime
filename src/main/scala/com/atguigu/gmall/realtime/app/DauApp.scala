@@ -88,6 +88,9 @@ object DauApp {
       }
     }
 
+    
+    println(1)
+
 
     ssc.start()
     ssc.awaitTermination()
